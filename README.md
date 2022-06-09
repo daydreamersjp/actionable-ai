@@ -1,5 +1,4 @@
-# actionable-ai
-Actionable AI
+# Actionable AI
 
 - Actionable AI is supposed to be a sibling of Explainable AI. The explain of ML results will not necessarily suggest the actions:
   - Explainable AI is like "Your loan application was rejected. The first reason is that your income is low. The second is your remaining morgage loan is still too high. The third..."
